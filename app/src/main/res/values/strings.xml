@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="first_question">How many colors are in Indian flag?</string>
+    <string name="flag_answer_one">3</string>
+    <string name="flag_answer_two">4</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="purple">Purple</string>
+    <string name="blue">Blue</string>
+    <string name="second_question">Which country has the largest area?</string>
+    <string name="third_question">Which colors are the primary colors?</string>
+    <string name="fourth_question">How many colors are in rainbow?</string>
+    <string name="rainbow_answer_one">8</string>
+    <string name="rainbow_answer_two">7</string>
+    <string name="check_score">Check Score</string>
+</resources>
